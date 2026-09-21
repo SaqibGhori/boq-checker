@@ -1,0 +1,13 @@
+{
+  "services": {
+    "frontend": {
+      "root": "frontend",
+      "framework": "vite"
+    },
+    "backend": {
+      "root": "backend",
+      "framework": "fastapi",
+      "route": "/api"
+    }
+  }
+}
